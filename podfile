@@ -1,0 +1,5 @@
+target 'Weather App' do
+  pod "ForecastIO"
+  pod "ForecastIOClient"
+  use_frameworks!
+end
